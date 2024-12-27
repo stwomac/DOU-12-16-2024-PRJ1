@@ -3,9 +3,8 @@
 A terminal based program that can perform 2-D matrix operations.
 Tested for Windows.
 
-## Required Imports
+## Required Installs
 - numpy
-- matplotlib.pyplot
 - seaborn
 - python 3.12.6
 
