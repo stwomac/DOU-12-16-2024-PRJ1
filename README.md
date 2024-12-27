@@ -1,6 +1,6 @@
 # Matrix Operation Manager
 ---
-A terminal based that can perform 2-D matrix operations.
+A terminal based program that can perform 2-D matrix operations.
 Tested for Windows.
 
 ## Required Imports
